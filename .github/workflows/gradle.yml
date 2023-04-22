@@ -1,4 +1,4 @@
-name: DP-BackPack
+name: LP-BackPack
 on:
   push:
 jobs:
