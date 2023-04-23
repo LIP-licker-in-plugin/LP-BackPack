@@ -3,7 +3,7 @@ plugins {
 }
 
 group 'com.darksoldier1404'
-version = '1.0.0.10'
+version = '1.0.0.12'
 def MC_VERSION = '1.19.4'
 compileJava.options.encoding = 'UTF-8'
 tasks.withType(JavaCompile) {
