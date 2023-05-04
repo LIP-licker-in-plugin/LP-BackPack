@@ -64,3 +64,6 @@ dependencies {
     compileOnly 'org.spigotmc:spigot-api:'+MC_VERSION+'-R0.1-SNAPSHOT'
     compileOnly 'com.licker2689.lpc:LP-Core:R0.1:'+MC_VERSION
 }
+clean {
+    delete 'jars'
+}
